@@ -5,7 +5,7 @@ base_url = "https://siepenmaru.github.io"
 compile_sass = true
 
 # Whether to build a search index to be used later on by a JavaScript library
-build_search_index = true
+build_search_index = false
 
 theme = "anemone"
 
@@ -14,5 +14,18 @@ theme = "anemone"
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
 highlight_code = true
 
+# external link settings
+external_links_target_blank = true
+external_links_no_referrer = true
+
 [extra]
 # Put all your custom variables here
+author = "Avatar Azka"
+display_author = true
+
+header_nav = [
+  { url = "/", name_en = "~/"},
+  { url = "/license", name_en = "licenses/" }
+]
+
+favicon = "favicon_io/favicon.ico"
