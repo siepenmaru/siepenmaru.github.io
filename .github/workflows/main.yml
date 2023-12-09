@@ -13,5 +13,6 @@ jobs:
         env:
           # Target branch
           PAGES_BRANCH: gh-pages
-          # Publishing to the same repo, use the automatic token
+          # Publishing to the same repo
+          # Use the automatic token
           TOKEN: ${{ secrets.GITHUB_TOKEN }}
