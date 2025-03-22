@@ -20,7 +20,7 @@ This site is a work in progress! I may come back to this and add some more pages
 
 ### Independent Projects
 - [Zeitseer](https://github.com/siepenmaru/zeitseer) (WIP! 🏗️)
-- [Watson UQ](https://github.com/siepenmaru/watson-uq) | [site](https://watson.uqcloud.net)
+- [Watson UQ](https://github.com/siepenmaru/watson-uq) | [site](https://watson-uq.my.id)
 - [Yomi-mate](https://github.com/siepenmaru/yomimate)
 
 ### Uni-related Projects
